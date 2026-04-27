@@ -1,0 +1,16 @@
+Ultimate-Portfolio-GOD/
+├─ backend/
+│  ├─ main.go
+│  ├─ routes/
+│  ├─ handlers/
+│  ├─ middleware/
+│  ├─ models/
+│  ├─ database/
+│  └─ config/
+├─ frontend/
+│  ├─ (your premium UI)
+├─ docker/
+│  └─ Dockerfile
+├─ docker-compose.yml
+├─ .env
+└─ README.md
